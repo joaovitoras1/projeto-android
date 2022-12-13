@@ -1,1 +1,1 @@
-Projeto feito para o <a href="https://www.cursoemvideo.com">Curso em Vídeo de HTML5 e CSS3</a>
+Projeto feito para o <a href="https://www.cursoemvideo.com">Curso em Vídeo</a> de HTML5 e CSS3
